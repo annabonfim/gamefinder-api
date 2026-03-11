@@ -109,7 +109,7 @@ Antes de rodar o backend, verifique se você tem instalado:
 ### 1. Clone este repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO_BACKEND>
+git clone https://github.com/annabonfim/gamefinder-api.git
 ```
 
 ### 2. Acesse a pasta do projeto
